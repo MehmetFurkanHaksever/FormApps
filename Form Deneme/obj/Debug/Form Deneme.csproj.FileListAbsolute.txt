@@ -1,0 +1,10 @@
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\bin\Debug\Form Deneme.exe.config
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\bin\Debug\Form Deneme.exe
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\bin\Debug\Form Deneme.pdb
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form Deneme.csprojResolveAssemblyReference.cache
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form_Deneme.Properties.Resources.resources
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form Deneme.csproj.GenerateResource.Cache
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form Deneme.exe
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form Deneme.pdb
+C:\Users\Adem\source\repos\Form Deneme\Form Deneme\obj\Debug\Form_Deneme.Form1.resources
